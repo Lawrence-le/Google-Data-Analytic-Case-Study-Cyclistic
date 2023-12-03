@@ -1,4 +1,4 @@
--- Create table under public schemas
+-- Create table under public schemas 
 
 CREATE TABLE "202211_to_202310" (
     ride_id VARCHAR(255),
