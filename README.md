@@ -19,9 +19,13 @@ The director of marketing and my manager assigned me to this business question: 
 4. A summary of my analysis
 5. Supporting visualizations and key findings
 
+## Data Wrangling
+Can be found in the SQL scripts attached.
+
+## Project visualizations and analytical outcomes can be found in the Tableau link below
+https://public.tableau.com/shared/GGDGQQ898?:display_count=n&:origin=viz_share_link
+
 ## Datasets
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
-## Tableau Visualizations
-https://public.tableau.com/shared/GGDGQQ898?:display_count=n&:origin=viz_share_link
 
