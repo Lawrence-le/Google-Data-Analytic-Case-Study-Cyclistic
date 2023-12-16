@@ -1,4 +1,4 @@
-# Google-Data-Analytic-Case-Study-Cyclistic
+# Project_Google_Data_Analytic_Case_Study_Cyclistic
 This Google data analytics capstone project integrates the utilization of PostgreSQL and Tableau for comprehensive data cleaning and analytics.
 
 ## Project Overview
