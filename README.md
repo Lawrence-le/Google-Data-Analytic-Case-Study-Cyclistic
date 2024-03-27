@@ -20,9 +20,9 @@ The director of marketing and my manager assigned me to this business question: 
 Can be found in the SQL scripts attached.
 
 ## Project visualizations and analytical outcomes can be found in the Tableau link below
-https://public.tableau.com/shared/GGDGQQ898?:display_count=n&:origin=viz_share_link
+[Link](https://public.tableau.com/app/profile/lawrence.lee1639/viz/CaseStudy-Cyclistic_17010249420570/Story1)
 
 ## Datasets
-https://divvy-tripdata.s3.amazonaws.com/index.html
+[Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 
